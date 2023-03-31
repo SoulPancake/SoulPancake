@@ -1,4 +1,8 @@
-
+# Hi, I'm Anurag
+## SDE Intern @ Razorpay, Hobby OpenSource @Redis
+## I like Backend and Frontend and Infra -> in that order
+## I really enjoy problem solving and learning.
+## Jack of all Stacks, Master of Some.
 
 <!-- ![golang art](https://user-images.githubusercontent.com/70265851/229018412-736923e6-6fb6-4c3a-be88-e26c3deaf615.jpg) -->
 <img src="https://user-images.githubusercontent.com/70265851/229018412-736923e6-6fb6-4c3a-be88-e26c3deaf615.jpg" alt="Image description" style="width: 50%; height: 50%;" />
