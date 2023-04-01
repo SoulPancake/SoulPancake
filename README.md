@@ -1,7 +1,6 @@
 # Hi, I'm Anurag
 ## SDE Intern @ Razorpay, Hobby OpenSource @Redis
-## I like Backend and Frontend and Infra -> in that order
-## I really enjoy problem solving and learning and I believe I can learn anything to do anything that needs to be done ranging from Web app building to Building a Language model that generates GenZ humour to building a UI to simulate the working of a flight missile guidance system.
+## I like Backend and Frontend and Infra and NLP, ML-> in that order
 ## Jack of all Stacks, Master of Some.
 
 <!-- ![golang art](https://user-images.githubusercontent.com/70265851/229018412-736923e6-6fb6-4c3a-be88-e26c3deaf615.jpg) -->
