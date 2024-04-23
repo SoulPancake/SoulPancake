@@ -1,5 +1,5 @@
 # Hi, I'm Anurag
-## Backend Engineer @ Razorpay, Hobby OpenSource @Redis
+## Backend Engineer @ Razorpay, Hobby OpenSource @Valkey , Previously Redis
 ## I like Backend and Infra and NLP and finally some Frontend/design -> in that order.
 ## Jack of all Stacks, Master of Some.
 
