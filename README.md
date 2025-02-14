@@ -1,5 +1,6 @@
 # Hi, I'm Anurag
-## Backend Engineer @ Razorpay ( [@angbpy](https://github.com/angbpy) ) , Hobby OpenSource - Valkey, Redis
+## Backend and Platform Engineer.
+## previously @ Razorpay ( [@angbpy](https://github.com/angbpy) ) , Hobby OpenSource - Valkey, Redis
 ## I like Backend and Infra and NLP and finally some Frontend/design -> in that order.
 ## Jack of all Stacks, Master of Some.
 
