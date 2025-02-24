@@ -1,6 +1,6 @@
 # Hi, I'm Anurag
 ## Backend and Platform Engineer @ FLAM
-## previously @ Razorpay ( [@angbpy](https://github.com/angbpy) ) , Hobby OpenSource - Redis, Valkey, GoCV etc.
+## previously @ Razorpay ( [@angbpy](https://github.com/angbpy) ) , OpenSource for fun - Redis, Valkey, GoCV etc.
 ## I like Backend and Infra and NLP and finally some Frontend/design -> in that order.
 ## Jack of all Stacks, Master of Some.
 
