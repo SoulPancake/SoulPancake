@@ -19,6 +19,8 @@ on:
 jobs:
   # This workflow contains a single job called "build"
   generate:
+    permissions: 
+      contents: write
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
     timeout-minutes: 10
@@ -34,7 +36,7 @@ jobs:
     - name: generate github-contribution-grid-snake.svg
       uses: Platane/snk/svg-only@v3
       with:
-        github_user_name: SoulPancake
+        github_user_name: ${{ github.repository_owner }}
         outputs: |
           dist/github-contribution-grid-snake.svg
           dist/github-contribution-grid-snake-dark.svg?palette=github-dark
