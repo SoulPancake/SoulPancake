@@ -8,7 +8,11 @@
 <img src="https://user-images.githubusercontent.com/70265851/229018412-736923e6-6fb6-4c3a-be88-e26c3deaf615.jpg" alt="Image description" style="width: 50%; height: 50%;" />
 
 
-![Snake animation](https://raw.githubusercontent.com/SoulPancake/SoulPancake/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
  
 <!--
 **SoulPancake/SoulPancake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
