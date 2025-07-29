@@ -6,6 +6,9 @@
 
 <!-- ![golang art](https://user-images.githubusercontent.com/70265851/229018412-736923e6-6fb6-4c3a-be88-e26c3deaf615.jpg) -->
 <img src="https://user-images.githubusercontent.com/70265851/229018412-736923e6-6fb6-4c3a-be88-e26c3deaf615.jpg" alt="Image description" style="width: 50%; height: 50%;" />
+## GitHub Contributions Snake 🐍
+
+![Snake animation](https://raw.githubusercontent.com/SoulPancake/SoulPancake/output/github-contribution-grid-snake.svg)
  
 <!--
 **SoulPancake/SoulPancake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
