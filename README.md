@@ -1,5 +1,6 @@
 # Hi, I'm Anurag
-## previously @Flam, @Razorpay ( [@angbpy](https://github.com/angbpy) ) , OpenSource for fun - Redis, Valkey, GoCV etc.
+## previously @Flam, @Razorpay ( [@angbpy](https://github.com/angbpy) ) 
+## OpenSource for fun - Redis, Valkey, GoCV etc.
 ## I like Backend and Infra and NLP and finally some Frontend/design -> in that order.
 ## Jack of all Stacks, Master of Some.
 
