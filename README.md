@@ -1,5 +1,5 @@
 # Hi, I'm Anurag  
-## SDK Engineer @ Okta, working on OpenFGA  
+## SDK Engineer @ OpenFGA
 ## Previously @Flam, @Razorpay ([GitHub](https://github.com/angbpy))  
 ## Open source enthusiast — OpenFGA, Valkey, Redis, GoCV, and more  
 ## I enjoy Backend, Infra, NLP — and occasionally dabble in Frontend/design (in that order)  
