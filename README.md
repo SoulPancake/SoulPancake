@@ -1,9 +1,10 @@
-# Hi, I'm Anurag
-## SDK Engineer @ Okta, OpenFGA
-## previously @Flam, @Razorpay ( [@angbpy](https://github.com/angbpy) ) 
-## OpenSource for fun - OpenFGA, Redis, Valkey, GoCV etc.
-## I like Backend and Infra and NLP and finally some Frontend/design -> in that order.
-## Jack of all Stacks, Master of Some.
+# Hi, I'm Anurag  
+## SDK Engineer @ Okta, working on OpenFGA  
+## Previously @Flam, @Razorpay ([GitHub](https://github.com/angbpy))  
+## Open source enthusiast — contributions to OpenFGA, Redis, Valkey, GoCV, and more  
+## I enjoy Backend, Infra, NLP — and occasionally dabble in Frontend/design (in that order)  
+## Jack of all stacks, master of some  
+## Polyglot in progress — picked up a few languages, always learning more  
 
 <!-- ![golang art](https://user-images.githubusercontent.com/70265851/229018412-736923e6-6fb6-4c3a-be88-e26c3deaf615.jpg) -->
 <img src="https://user-images.githubusercontent.com/70265851/229018412-736923e6-6fb6-4c3a-be88-e26c3deaf615.jpg" alt="Image description" style="width: 50%; height: 50%;" />
