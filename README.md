@@ -1,8 +1,6 @@
 # Hi, I'm Anurag  
-## Software Engineer [@OpenFGA](https://github.com/openfga)
-## Previously @Flam, @Razorpay
-## Open source enthusiast — OpenFGA, Valkey, Redis, GoCV, and more  
-## I enjoy Backend, Infra, NLP — and occasionally dabble in Frontend/design (in that order)  
+## OSS — OpenFGA, Valkey, Redis, GoCV, and more  
+## I enjoy Backend, Infra, systems, NLP — and math
 ## Jack of all stacks, master of some  
 ## Polyglot in progress — picked up a few languages, always learning more  
 
