@@ -1,6 +1,6 @@
 # Hi, I'm Anurag  
 ## OSS — OpenFGA, Valkey, Redis, GoCV, and more  
-## I enjoy Backend, Infra, systems, NLP — and math
+## I enjoy Backend, Infra, systems, NLP, hacking and math
 ## Jack of all stacks, master of some  
 ## Polyglot in progress — picked up a few languages, always learning more  
 
