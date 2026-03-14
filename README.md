@@ -9,7 +9,7 @@ Responsible hacks · Undefined behaviour enjoyer
 
 ---
 
-### My private contributions come pre-eaten
+#### My private contributions come pre-eaten
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoulPancake/SoulPancake/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoulPancake/SoulPancake/output/github-contribution-grid-snake.svg" />
