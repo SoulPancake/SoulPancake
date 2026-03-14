@@ -2,7 +2,7 @@
 ## Hi, I'm Anurag
 
 OSS — OpenFGA · Valkey · Redis ecosystem · GoCV  
-Backend · Infrastructure · Systems · NLP · Mathematics
+Backend · Infrastructure · Systems · NLP · Mathematics <br>
 Responsible hacks · Undefined behaviour enjoyer
 
 Always happy to chat about tech — or anything interesting.
