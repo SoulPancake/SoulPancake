@@ -1,11 +1,13 @@
-# Hi, I'm Anurag  
-## OSS — OpenFGA, Valkey, Redis, GoCV, and more  
-## Backend • Infrastructure • Systems • NLP • responsible hacks • undefined behavior enjoyer
-## Jack of all stacks, master of some  
-## Polyglot in progress 
 
-<!-- ![golang art](https://user-images.githubusercontent.com/70265851/229018412-736923e6-6fb6-4c3a-be88-e26c3deaf615.jpg) -->
-<img src="https://user-images.githubusercontent.com/70265851/229018412-736923e6-6fb6-4c3a-be88-e26c3deaf615.jpg" alt="Image description" style="width: 50%; height: 50%;" />
+## Hi, I'm Anurag
+
+OSS — OpenFGA · Valkey · Redis ecosystem · GoCV  
+Backend · Infrastructure · Systems · NLP  
+Responsible hacks · Undefined behaviour enjoyer
+
+
+
+---
 
 ### My private contributions come pre-eaten
 <picture>
