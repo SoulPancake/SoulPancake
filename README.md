@@ -9,11 +9,20 @@ Always happy to chat about tech — or anything interesting.
 
 ```
    _O/                   ,
-     \                  /           \O_
+     \                  /           \O_   
      /\_             `\_\        ,/\/
      \  `       ,        \         /
      `       O/ /       /O\        \
              /\|/\.                `
+
+  ,.
+  \-'__
+ / o.__o___    ___+
+ \/_/ /.___/--------,
+   ||\' mrf
+   | /
+   \_\
+   -''
 ```
    
 ---
