@@ -1,7 +1,7 @@
 
 ## Hi, I'm Anurag
 
-OSS 
+OSS ·
 Backend · Infrastructure · Systems · NLP · Mathematics <br>
 Responsible hacks · Undefined behaviour enjoyer
 
